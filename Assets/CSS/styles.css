@@ -57,7 +57,7 @@ input {
 }
 .product-image {
   width: 52%;
-  border: dashed black 1px;
+  /* border: dashed black 1px; */
 }
 .product-section {
   display: flex;
